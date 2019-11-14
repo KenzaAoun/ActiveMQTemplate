@@ -32,7 +32,7 @@ public class MySender {
 			// Create a sender
 			QueueSender sender = session.createSender(queue);
 			// Create a message
-			TextMessage msg = session.createTextMessage("TEST ENVOI");
+			TextMessage msg = session.createTextMessage("MESSAGE IS SENT");
 			//System.out.println(msg);
 			// Send the message
 			sender.send(msg);

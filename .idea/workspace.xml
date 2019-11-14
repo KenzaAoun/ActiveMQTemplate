@@ -13,6 +13,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ActiveMQTemplate" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -38,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyReceiver">
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
     <configuration name="MyReceiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="receiver.MyReceiver" />
       <module name="ActiveMQTemplate.main" />
@@ -90,6 +100,9 @@
       <option name="presentableId" value="Default" />
       <updated>1573226109366</updated>
       <workItem from="1573226114991" duration="5154000" />
+      <workItem from="1573763663344" duration="1048000" />
+      <workItem from="1573765713421" duration="924000" />
+      <workItem from="1573766734191" duration="76000" />
     </task>
     <servers />
   </component>
@@ -101,7 +114,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
