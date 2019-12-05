@@ -26,7 +26,7 @@ public class ReceiverTopic {
                 // receive the message
                 TextMessage m = (TextMessage) test.receive();
                 // print the message
-                System.out.println("Message is"+m);//display the message sent
+                System.out.println("Message is "+m);//display the message sent
 
 
         }catch(Exception e){
